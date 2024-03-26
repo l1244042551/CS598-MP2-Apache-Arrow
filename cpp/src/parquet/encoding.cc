@@ -4065,3 +4065,4 @@ std::unique_ptr<Decoder> MakeDictDecoder(Type::type type_num,
 
 }  // namespace detail
 }  // namespace parquet
+//
